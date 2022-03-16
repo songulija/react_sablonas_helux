@@ -1,13 +1,10 @@
-import './styles/App.css'
-import Navbar from './components/Navbar';
 import { BrowserRouter as Router } from 'react-router-dom'
-import Sidebar from './components/Sidebar';
-import Home from './pages';
+import HomeScreen from './screens/HomeScreen'
 
 function App() {
   return (
     <Router>
-      <Home />
+      <HomeScreen />
     </Router>
   );
 }
