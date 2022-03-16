@@ -26,7 +26,7 @@ function Navbar({ toggle }) {
         <>
             <Nav scrollNav={scrollNav}>
                 <NavbarContainer>
-                    <NavLogo to='/' onClick={toggleHome}>Helux</NavLogo>
+                    <NavLogo to='/' onClick={toggleHome}>Lukex</NavLogo>
                     {/* bars icon */}
                     <MobileIcon onClick={toggle}>
                         <FaBars />

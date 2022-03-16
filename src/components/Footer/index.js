@@ -54,10 +54,10 @@ function Footer() {
                 <SocialMedia>
                     <SocialMediaWrap>
                         <SocialLogo to='/'>
-                            Helux
+                            Lukex
                         </SocialLogo>
-                        <WebsiteRights>Helux &copy {new Date().getFullYear()}
-                            All rights reserved. Lukas Songulija</WebsiteRights>
+                        <WebsiteRights>Lukex @{new Date().getFullYear()}
+                            Lukas Songulija</WebsiteRights>
                         <SocialIcons>
                             <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
                                 <FaFacebook />
