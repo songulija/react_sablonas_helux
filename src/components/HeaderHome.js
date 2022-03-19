@@ -1,7 +1,6 @@
 import React from 'react'
 import { Container, Nav, Navbar, NavDropdown, Button } from 'react-bootstrap'
 import { LinkContainer } from 'react-router-bootstrap'
-import { withRouter } from "react-router-dom";
 import logo from '../images/rivita-logo.png'
 import { animateScroll as scroll, scroller, Link } from 'react-scroll'
 import '../styles/headerHomeStyle.css'
