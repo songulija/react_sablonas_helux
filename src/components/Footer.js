@@ -39,19 +39,19 @@ function Footer(props) {
                                     <li style={{ ...footerListElementsStyle }}>Pasienio ir transporto veterinarinės priežiūros tarnybų teikiamų paslaugų organizavimas</li>
                                     <li style={{ ...footerListElementsStyle }}>Konsultacijos krovinių vežimo klausimais</li> */}
                                 <li style={{ ...footerListElementsStyle }}>
-                                    <a style={{ color: 'white' }} href="#!">APIE MUS</a>
+                                    <a style={{ color: 'white' }} href="/">APIE MUS</a>
                                 </li>
                                 <li style={{ ...footerListElementsStyle }}>
-                                    <a style={{ color: 'white' }} href="#!">PASLAUGOS</a>
+                                    <a style={{ color: 'white' }} href="/">PASLAUGOS</a>
                                 </li>
                                 <li style={{ ...footerListElementsStyle }}>
-                                    <a style={{ color: 'white' }} href="#!">KROVINIAI</a>
+                                    <a style={{ color: 'white' }} href="/">KROVINIAI</a>
                                 </li>
                                 <li style={{ ...footerListElementsStyle }}>
-                                    <a style={{ color: 'white' }} href="#!">PARTNERIAI</a>
+                                    <a style={{ color: 'white' }} href="/">PARTNERIAI</a>
                                 </li>
                                 <li style={{ ...footerListElementsStyle }}>
-                                    <a style={{ color: 'white' }} href="#!">KONTAKTINĖ INFORMACIJA</a>
+                                    <a style={{ color: 'white' }} href="/">KONTAKTINĖ INFORMACIJA</a>
                                 </li>
                             </ul>
                         </div>
